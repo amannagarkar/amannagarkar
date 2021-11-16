@@ -1,8 +1,9 @@
-# Aman Nagarkar - @amannagarkar
-
- ### 👋 I am a student doing my Master's in Computer Science and trying fun projects in my spare time. My focus is in Machine Learning. Open to collaborating. 
-
 <p align="center">
+
+# 👋 Hi, I am Aman.
+
+ ### I am a student doing my Master's in Computer Science. I try fun projects in my spare time. My focus is in Machine and Deep Learning. 
+ 
   <img src="https://media.giphy.com/media/abUv2kx8CQXNS/giphy.gif" width="480px">
   <br><br>
 </p>
