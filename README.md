@@ -3,7 +3,7 @@
  ### I am a student doing my Master's in Computer Science. I try fun projects in my spare time. My focus is in Machine and Deep Learning. 
 <p align="center">
 <br><br>
-  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="360px">
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="480px">
   <br><br>
 </p>
 
