@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**amannagarkar/amannagarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img src="https://giphy.com/embed/abUv2kx8CQXNS" width="240px" align="center">
+</p>
 
-Here are some ideas to get you started:
+# Aman Nagarkar - @amannagarkar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### 👋 I am a student doing my Master's in Computer Science and trying fun projects in my spare time. My focus is in Machine Learning. Open to collaborating. 
+
+
+## 🚀 About Me
+- 📖 Full time Student, part time Data analyst. Machine learning novice. Aspiring data scientist.
+- 👀 Seeking ideas for projects
+- 💡 Beginner's mindset and curious
